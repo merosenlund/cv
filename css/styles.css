@@ -1,0 +1,24 @@
+/******************* TAG SELECTORS *********************/
+
+body {
+  background-color: #d3e0ea;
+  color: #276678;
+}
+
+hr {
+  border: none;
+  border-top-style: dotted;
+  border-top-width: 8px;
+  border-color: #f6f5f5;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #1687a7;
+}
+
+
+/******************* PSUODO CLASS SELECTORS *********************/
+.skill:hover {
+  font-weight: bold;
+}
