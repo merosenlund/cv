@@ -17,6 +17,10 @@ h1, h3 {
   color: #1687a7;
 }
 
+img {
+  border-radius: 100%
+}
+
 
 /******************* PSUODO CLASS SELECTORS *********************/
 .skill:hover {
